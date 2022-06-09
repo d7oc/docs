@@ -66,6 +66,7 @@ asciidoc:
     oc-marketplace-url: 'https://marketplace.owncloud.com'
     oc-central-url: 'https://central.owncloud.org'
     oc-support-url: 'https://owncloud.com/support'
+    oc-download-url: https://owncloud.com/download-server/
 #   docs
     latest-docs-version: 'next'
     previous-docs-version: 'next'
